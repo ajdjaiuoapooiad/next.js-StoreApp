@@ -53,6 +53,10 @@ export default AboutPage;
 
 ### Starter
 
+ npx shadcn@latest init
+ npx shadcn@latest add button
+
+
 Starter already has shadcn installed and configured. 👍
 
 - components
