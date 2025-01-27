@@ -8,7 +8,7 @@ import {
 import { LuAlignLeft } from 'react-icons/lu';
 import Link from 'next/link';
 import { Button } from '../ui/button';
-import { links } from '../../app/utils/links';
+import { links } from '../../utils/links';
 
 
 function LinksDropdown() {
